@@ -12,11 +12,22 @@
 </ul>
 
 <h2>Featured Repositories</h2>
-<ul>
-  <li><strong>Matplotlib Intro</strong>: A simple repo that contains basic syntax for the Python data visualization library <a href="https://matplotlib.org/">matplotlib</a></li>
-</ul>
+<p>These are our top projects.</p>
+<h3>Matplotlib Intro</h3>
+<p></p>A simple repo that contains basic syntax for the Python data visualization library <a href="https://matplotlib.org/">matplotlib</a>. The project features a README.md file that allows beginners to learn some basic matplotlib syntax with examples of basic charts.</p>
+<img src="Assets/matplotlib.png">
+
+<h2>Projects in Development</h2>
+<ol>
+  <li>Quest Tracker: a Django-based website for video games which allows you to track what items you need to finish an in-game quest.</li>
+  <li>Font Tester: an iOS app which allows you to preview text in different fonts and font sizes</li>
+  <li>Our website: a simple static site which allows people to view our projects and contact us.</li>
+  <li>HackerCube: a CLI game built in Java where you play as a hacker trying to hack different systems</li>
+  <li>Standard Web Boilerplate: a simple static website boilerplate for beginners to not get overwhelmed with huge templates</li>
+</ol>
 
 <h2>Legal and Guidelines</h2>
 <ul>
   <li>See the project <a href="LICENSE">license</a></li>
+  <li>Most of our projects are registered under the PolyForm Non-Commerical License 1.0.0. Read more <a href="https://polyformproject.org/licenses/noncommercial/1.0.0">here.</a></li>
 </ul>
