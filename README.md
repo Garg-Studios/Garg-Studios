@@ -12,6 +12,7 @@
 </ul>
 
 <h2>Our Favorite Tech Stacks</h2>
+<!--TODO: add images here with links to documentation and SwiftUI-->
 <ol>
   <li>Python: We love using Python for many of our project backends due to its extensive library support</li>
   <li>Django: Django is an easy-to-use backend web development framework we love using</li>
