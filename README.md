@@ -30,4 +30,5 @@
 <ul>
   <li>See the project <a href="LICENSE">license</a></li>
   <li>Most of our projects are registered under the PolyForm Non-Commerical License 1.0.0. Read more <a href="https://polyformproject.org/licenses/noncommercial/1.0.0">here.</a></li>
+  <li>View our <a href="SECURITY.md">SECURITY.md</a> file in case you discover an exploit.</li>
 </ul>
