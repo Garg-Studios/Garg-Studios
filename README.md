@@ -11,15 +11,25 @@
   <li>Join our <a href="https://discord.gg/Y4NesTYDbz">Discord</a></li>
 </ul>
 
+<h2>Our Favorite Tech Stacks</h2>
+<ol>
+  <li>Python: We love using Python for many of our project backends due to its extensive library support</li>
+  <li>Django: Django is an easy-to-use backend web development framework we love using</li>
+  <li>HTML/SCSS/CSS: Our static sites utilize either CSS or SCSS for styling and a semantic HTML page easy for accessibility tools</li>
+  <li>TypeScript: We've used TypeScript along with Python to build Exchange Bot, a stock/crypto price checker with a currency conversion function.</li>
+</ol>
+
+
 <h2>Featured Repositories</h2>
 <p>These are our top projects.</p>
 <h3>Matplotlib Intro</h3>
-<p></p>A simple repo that contains basic syntax for the Python data visualization library <a href="https://matplotlib.org/">matplotlib</a>. The project features a README.md file that allows beginners to learn some basic matplotlib syntax with examples of basic charts.</p>
+<p>A simple repo that contains basic syntax for the Python data visualization library <a href="https://matplotlib.org/">matplotlib</a>. The project features a README.md file that allows beginners to learn some basic matplotlib syntax with examples of basic charts.</p>
 <img src="Assets/matplotlib.png">
+
 
 <h2>Projects in Development</h2>
 <ol>
-  <li>Quest Tracker: a Django-based website for video games which allows you to track what items you need to finish an in-game quest.</li>
+  <li>Quest Tracker: a Django-based website for video games which allows you to track what items you need to finish an in-game quest. []</li> 
   <li>Font Tester: an iOS app which allows you to preview text in different fonts and font sizes</li>
   <li>Our website: a simple static site which allows people to view our projects and contact us.</li>
   <li>HackerCube: a CLI game built in Java where you play as a hacker trying to hack different systems</li>
